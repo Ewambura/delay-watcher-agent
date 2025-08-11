@@ -1,7 +1,1 @@
-langchain
-chromadb
-openai
-streamlit
-pandas
-google-api-python-client
-pytest
+langchain`nchromadb`nopenai`nstreamlit`npandas`ngoogle-api-python-client`npytest
