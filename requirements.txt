@@ -1,0 +1,7 @@
+langchain
+chromadb
+openai
+streamlit
+pandas
+google-api-python-client
+pytest
